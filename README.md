@@ -31,7 +31,7 @@ Options:
 
 Examples:
   medium-importer -i medium-export.zip -o output/
-  ```
+```
 
 # Importer output
 
@@ -57,7 +57,6 @@ thumb_img_path: >-
 content_img_path: >-
   images/My-Blog-Post/splash.jpeg
 ---
-
 # My Post
 
 Markdown content goes **HERE**
@@ -65,9 +64,8 @@ Markdown content goes **HERE**
 
 ### `static/images`
 
-* Per-post images organized in directories with the post's slug.
-* Global images extracted from the Medium export: `avatar.png` if available.
-
+- Per-post images organized in directories with the post's slug.
+- Global images extracted from the Medium export: `avatar.png` if available.
 
 ### `data/data.json`
 
@@ -87,4 +85,3 @@ Extraced information in `JSON` format:
     }
   }
 ```
-

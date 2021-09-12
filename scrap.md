@@ -3,16 +3,15 @@ title: Audio
 weight: 0
 excerpt: Audio Projects
 seo:
-    title: 'Automatic Triggered Guitar Effects'
-    description: 'A collection of web audio projects'
-    robots: []
-    extra: []
-    type: stackbit_page_meta
+  title: "Automatic Triggered Guitar Effects"
+  description: "A collection of web audio projects"
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 template: docs
 ---
 
 # Audio
-
 
 <br>
 <br>
@@ -43,7 +42,7 @@ style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
 title="iframe inception (forked)"
 allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
 sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>   
+></iframe>
 
 <br>
 <br>
